@@ -1,2 +1,2 @@
 # MediaPlayer
-Using this app listen to illegal music in Russia)
+Using this app I listen to illegal music in Russia)
